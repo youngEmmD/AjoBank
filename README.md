@@ -1,2 +1,2 @@
 # AjoBank
-Financial technology server backed app for providing financial and allied services to customers
+Financial technology server backed app for providing financial and allied services to customers. The files will be set up properly as project progresses...
